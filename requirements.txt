@@ -1,0 +1,4 @@
+cocos==0.2.2
+matplotlib==3.4.3
+numpy==1.20.3
+PyAudio==0.2.12
