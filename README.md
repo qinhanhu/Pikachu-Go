@@ -19,7 +19,7 @@ Or
 ```shell
 $ pip install -r requirements.txt
 ```
-## How to Play
+## Gameplay
 
 ---
 The game has two interfaces, a game interface and a controller interface.
