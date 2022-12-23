@@ -11,12 +11,6 @@ Python 3.9.7
 ```
 Install Packages
 ```shell
-$ pip install cocos==0.2.2 matplotlib==3.4.3 numpy==1.20.3 PyAudio==0.2.12 
-```
-
-Or
-
-```shell
 $ pip install -r requirements.txt
 ```
 ## Gameplay
